@@ -1,0 +1,106 @@
+{
+    "java developer": {
+        "skills": [
+            "Java",
+            "DSA",
+            "OOP",
+            "SQL",
+            "Git",
+            "Spring Boot"
+        ],
+        "roadmap": {
+            "DSA": [
+                "Arrays",
+                "Strings",
+                "HashMap",
+                "Two Pointers",
+                "Stack and Queue"
+            ],
+            "OOP": [
+                "Classes and Objects",
+                "Inheritance",
+                "Polymorphism",
+                "Abstraction",
+                "Interfaces"
+            ],
+            "Git": [
+                "git init",
+                "git add",
+                "git commit",
+                "git push",
+                "Branches"
+            ],
+            "Spring Boot": [
+                "Spring Boot basics",
+                "REST API",
+                "Controllers",
+                "Services",
+                "Database connection"
+            ]
+        }
+    },
+
+    "python developer": {
+        "skills": [
+            "Python",
+            "DSA",
+            "OOP",
+            "SQL",
+            "Git",
+            "Django"
+        ],
+        "roadmap": {
+            "Python": [
+                "Variables",
+                "Conditionals",
+                "Loops",
+                "Functions",
+                "Lists and Dictionaries"
+            ],
+            "DSA": [
+                "Arrays",
+                "Strings",
+                "HashMap",
+                "Stack and Queue"
+            ],
+            "Django": [
+                "Django basics",
+                "Models",
+                "Views",
+                "URLs",
+                "REST API"
+            ]
+        }
+    },
+
+    "web developer": {
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "SQL"
+        ],
+        "roadmap": {
+            "HTML": [
+                "Elements",
+                "Forms",
+                "Tables",
+                "Semantic HTML"
+            ],
+            "CSS": [
+                "Selectors",
+                "Box Model",
+                "Flexbox",
+                "Grid"
+            ],
+            "JavaScript": [
+                "Variables",
+                "Functions",
+                "Arrays",
+                "DOM",
+                "Events"
+            ]
+        }
+    }
+}
